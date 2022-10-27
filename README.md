@@ -11,3 +11,10 @@ Method 2:
 - Download folder ```src```
 - If [pygame](https://www.pygame.org/wiki/GettingStarted) not installed - ```pip install pygame```
 - Run ```main.py```
+
+Controls
+
+- ```  ↑  ``` - Jump.
+- ```  ←  ``` - Move left.
+- ```  →  ``` - Move right.
+- ```SPACE``` - Shoot.
